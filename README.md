@@ -13,3 +13,5 @@ When am not working on technology, Patience loves watching documentaries, readin
 	  </p>
 	
 <a href="https://app.daily.dev/patienceman"><img src="https://api.daily.dev/devcards/f1a761a9aff34aef95d5b5ce7e2bc88b.png?r=w37" width="400" alt="Manirabona Patience's Dev Card"/></a>
+
+https://api.readyplayer.me/v1/avatars/639096fef3369eef547fa621.glb
