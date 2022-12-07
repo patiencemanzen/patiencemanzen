@@ -11,7 +11,3 @@ When am not working on technology, Patience loves watching documentaries, readin
   <a href="https://www.instagram.com/manirabona_walker"><img alt="Instagram" title="Manirabona Patience Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	  <a href="https://twitter.com/ManirabonaW"><img alt="Twitter" title="Manirabona Patience Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 	  </p>
-	
-<a href="https://app.daily.dev/patienceman"><img src="https://api.daily.dev/devcards/f1a761a9aff34aef95d5b5ce7e2bc88b.png?r=w37" width="400" alt="Manirabona Patience's Dev Card"/></a>
-
-https://api.readyplayer.me/v1/avatars/639096fef3369eef547fa621.glb
