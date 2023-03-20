@@ -6,6 +6,7 @@ Software Developer, with 6+ years of experience in (Php - Laravel, and Javascrip
 
 When am not working on technology, Patience loves watching documentaries, reading and writing books, traveling and exploring, history and psychology, Photograph, Painting, Playing Piano, and enjoys hanging out with devs But Mountains are better!
 
+#
 ```PHP
 /**
  * Rule-1: No one but ourselves can create ourselves
@@ -17,6 +18,8 @@ final protected function life(Person $person) {
     return new LifeBuilder($person->whoami());
 }
 ```
+#
+I often thought of Steve Jobs’ reality distortion field: when you believe in something so strongly and keep on pushing it so persistently, somehow you can make the impossible possible. and Ideas in different topics or fields can often inspire new ideas and broaden the potential solution space.
 
 ## Connect with Me
 <p align="center">
