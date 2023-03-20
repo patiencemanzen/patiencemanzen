@@ -6,6 +6,18 @@ Software Developer, with 6+ years of experience in (Php - Laravel, and Javascrip
 
 When am not working on technology, Patience loves watching documentaries, reading and writing books, traveling and exploring, history and psychology, Photograph, Painting, Playing Piano, and enjoys hanging out with devs But Mountains are better!
 
+```PHP
+/**
+ * Rule-1: No one but ourselves can create ourselves
+ *
+ * @param Person person
+ * @return LifeBuilder
+ */
+final protected function life(Person $person) {
+    return new LifeBuilder($person->whoami());
+}
+```
+
 ## Connect with Me
 <p align="center">
 	<a href="https://www.linkedin.com/in/manirabona-patience-3b08051b4"><img alt="Linkedin" title="Manirabona patience Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
