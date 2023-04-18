@@ -2,7 +2,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## About
-Software Developer, with 6+ years of experience in (Php - Laravel, and Javascript - Vue), Am passionate about creating quality applications, and Never tired of learning, creating, and building,  I've been collaborating and contributing with different Teams and companies to develop their products from ideas up to Marketplace, including open source projects.
+Software Developer, who is interested and passionate about creating quality applications powered by PHP - laravel and Javascript - vue.js, and Never tired of learning, thinking, creating, and building, I've been collaborating and contributing to a diverse range of projects, Teams, and companies to develop their products from ideas up to Marketplace if I don't forget open source projects from health-related to fintech, and now at the Rwanda Build Program as a backend developer.
 
 When am not working on technology, Patience loves watching documentaries, reading and writing books, traveling and exploring, history and psychology, Photograph, Painting, Playing Piano, and enjoys hanging out with devs But Mountains are better!
 
