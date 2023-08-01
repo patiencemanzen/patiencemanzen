@@ -36,7 +36,7 @@ I often thought of Steve Jobs’ reality distortion field: when you believe in s
 
 - 📫 How to reach me **hseal419@gmail.com**
 
-- ⚡ Fun fact **Is that am an Social Introvert**
+- ⚡ Fun fact **Is Working overtime is likely**
 ## 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manirabona-programer&show_icons=true&locale=en" alt="manirabona-programer" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manirabona-programer&" alt="manirabona-programer" />
