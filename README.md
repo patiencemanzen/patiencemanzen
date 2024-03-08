@@ -3,7 +3,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## About
-Thousand-hills Born Software Engineer as well as Backend Developer, I have a proven track record of success. I possess three years of hands-on experience in PHP and an additional two years specializing in Laravel, Vue.js, and TypeScript. My skill set includes tackling complex problems, architecting innovative solutions, and seamlessly adapting to evolving technologies. I have also contributed my talents to the growth and success of Rwandan startups, demonstrating my ability to thrive in passionate and entrepreneurial environments. 
+Thousand-hills Born a software engineer and backend developer with a strong track record of success. I have three years of practical experience in PHP and an additional two years of specialization in technologies such as Laravel, Vue.js, and TypeScript. My skill set includes problem-solving, developing innovative solutions, and adapting to new technologies with ease. I have also contributed to the growth and success of Rwandan startups, which showcases my ability to thrive in passionate and entrepreneurial environments.
 
 <h3 align="left">Teck stack 🛠 Languages and Tools:</h3>
 
@@ -21,9 +21,8 @@ Thousand-hills Born Software Engineer as well as Backend Developer, I have a pro
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)&nbsp;
 
-When I am not working on technology, Patience loves watching documentaries, reading and writing books, traveling and exploring, history and psychology, Photography, Painting, Playing Piano, and hanging out with devs But Mountains are better!
+I enjoy reading, writing, traveling, history, psychology, photography, painting, playing piano, and hanging out with developers. But my heart belongs to the mountains!
 
-#
 ```PHP
 /**
  * Rule-1: No one but ourselves can create ourselves
@@ -36,7 +35,7 @@ final protected function life(Person $person) {
     return new Builder($person->character(), $person->dreams());
 }
 ```
-#
+
 I often thought of Steve Jobs’ reality distortion field: when you believe in something so strongly and keep pushing it persistently, you can somehow make the impossible possible. and Ideas in different topics or fields can often inspire new ideas and broaden the potential solution space.
 
 - 🌱 I’m currently learning **Typescript** and **Advanced Communication**
@@ -56,11 +55,9 @@ I often thought of Steve Jobs’ reality distortion field: when you believe in s
 
 ## Connect with Me
 
-[![Connect With Me](https://skillicons.dev/icons?i=twitter,linkedin,gmail,github,instagram,discord)](https://skillicons.dev)
-
-<p align="center">
-<!-- 	<a href="https://www.linkedin.com/in/manirabona-patience-3b08051b4"><img alt="Linkedin" title="Manirabona patience Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/manirabona-programer/manirabona-programer"><img alt="Github" title="Manirabona patience Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/manirabona_walker"><img alt="Instagram" title="Manirabona Patience Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-	  <a href="https://twitter.com/ManirabonaW"><img alt="Twitter" title="Manirabona Patience Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
-	  </p>
+[![Connect With Me on twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ManirabonaW)
+[![Connect With Me on linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/manirabona-patience-3b08051b4))
+[![Connect With Me on gmail](https://skillicons.dev/icons?i=gmail)](hseal419@gmail.com)
+[![Connect With Me on github](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/patiencemanzen))
+[![Connect With Me on instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/i.am.patience.traveller)
+[![Connect With Me on discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
