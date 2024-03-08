@@ -50,7 +50,6 @@ I often thought of Steve Jobs’ reality distortion field: when you believe in s
 
 - ⚡ Fun fact **Is Working overtime is likely**
 
-##
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=patiencemanzen&rank_icon=github&show_icons=true&theme=tokyonight)
 
 ## Connect with Me
