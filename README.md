@@ -1,32 +1,52 @@
+# Hi, I'm Manirabona Patience 👋  
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## About Me
-Patience is Thousand-hills Born a software engineer with a strong track record of success. I have many years of practical experience.
-My skill set includes problem-solving, developing innovative solutions, and adapting to new technologies with ease. I have also contributed to the growth and success of different startups, which showcases my ability to thrive in passionate and entrepreneurial environments.
+### 🚀Software Engineer | AI Enthusiast | Problem Solver
 
-## Teck stack 🛠 Languages and Tools:
+Born in the land of a thousand hills, I’m a software engineer with a strong track record of success. With years of hands-on experience, I specialize in **building scalable applications, solving complex problems, and adapting to new technologies effortlessly**.  
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwindcss,git,vscode,docker,laravel,react,graphql,kubernetes,appwrite,mysql,nodejs,php,postman,redis,vue,aws,gcp,azure,anaconda,androidstudio,figma,github,heroku,mongodb,vite,supabase)](https://skillicons.dev)
+I thrive in **startup environments**, where innovation, creativity, and problem-solving drive success. Passionate about **backend development, DevOps, AI, and cloud computing**, I love turning ideas into reality.  
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+## 🛠 **Tech Stack**
+### **Languages & Tools I Work With**  
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,php,html,css,tailwindcss,nodejs,laravel,react,vue,graphql,docker,kubernetes,appwrite,mysql,redis,mongodb,postman,aws,gcp,azure,anaconda,androidstudio,figma,git,github,heroku,vscode,vite,supabase)](https://skillicons.dev)
+
+### 📌Primary Skills:
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
-I enjoy reading, writing, traveling, history, psychology, photography, painting, playing piano, and hanging out with developers. But my heart belongs to the mountains!
+### ⚡DevOps & Cloud:
 
-```PHP
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
+
+---
+
+## 🏆 **Beyond Code**
+Apart from software engineering, I enjoy:  
+📖 **Reading & Writing** – Exploring tech, history, and psychology.  
+📸 **Photography & Painting** – Capturing moments & expressing creativity.  
+🎹 **Playing Piano** – Music is another way to code emotions.  
+🗺️ **Traveling** – Exploring new places, cultures, and ideas.  
+
+🏔️ But above all, my heart belongs to the **mountains!**  
+
+## 💡 **A Thought on Life & Code**
+```php
 /**
  * Rule-1: No one but ourselves can create ourselves
  *
- * @param Person person
+ * @param Person $person
  * @return Builder // life builder
  * @throws LifeException
  */
@@ -35,18 +55,18 @@ final protected function life(Person $person) {
 }
 ```
 
-I often thought of Steve Jobs’ reality distortion field: when you believe in something so strongly and keep pushing it persistently, you can somehow make the impossible possible. and Ideas in different topics or fields can often inspire new ideas and broaden the potential solution space.
+I strongly believe in persistence and creativity. Like Steve Jobs’ Reality Distortion Field, when you believe in something strongly and keep pushing, you can turn the impossible into reality.
 
-- 🌱 I’m currently learning **Typescript** and **Advanced Communication**
-
-- 👨‍💻 All of my projects are available at [patienceman.com](patienceman.com)
-
-- 📝 I regularly write articles on [blog.patienceman.com](blog.patienceman.com)
-
-- 💬 Ask me about **PHP, Laravel, Javascript, Vue and Docker(Kubernetes))**
-
-- 📫 How to reach me **hseal419@gmail.com**
-
-- ⚡ Fun fact **Is Working overtime is likely**
+## 📚 What I’m Up To
+- 🌱 Currently Learning: Advanced TypeScript & Communication Skills
+- 💡 Exploring: Cloud-Native Technologies, AI, and Scalable Architectures
+- 🚀 Building: Innovative SaaS, AI-Powered Solutions & Scalable Backend Systems
+- ✍️ Writing Tech Articles: blog.patienceman.com
+- 🌍 Check Out My Projects: patienceman.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=patiencemanzen&rank_icon=github&show_icons=true&theme=tokyonight)
+
+## 💬 Let’s Connect:
+💻 **Ask me about:** Node.js (Nest.js), PHP(Laravel), React (Next.js), Docker, and AI
+📧 **Reach me at:** hseal419@gmail.com
+📌 **Fun Fact:** Working overtime is likely 😆
