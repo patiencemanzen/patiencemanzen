@@ -2,11 +2,11 @@
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## Software Engineer | Founder | Problem Solver
+## Software Engineer & Founder
 
 Born in the land of a thousand hills, I’m a software engineer with a strong track record of success. With years of hands-on experience, I specialize in **building scalable applications, solving complex problems, and adapting to new technologies effortlessly**.  
 
-I thrive in **startup environments**, where innovation, creativity, and problem-solving drive success. Passionate about **backend development, DevOps, AI, and cloud computing**, I love turning ideas into reality.  
+I Grow in **startup environments**, where innovation, creativity, and problem-solving drive success. Passionate about **backend development, DevOps, AI, and cloud computing**, I love turning so many ideas into reality.  
 
 ## Tech Stack
 ### **Languages & Tools I Work With**  
